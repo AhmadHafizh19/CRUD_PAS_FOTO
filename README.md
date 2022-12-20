@@ -1,0 +1,1 @@
+# CRUD_PAS_FOTO
